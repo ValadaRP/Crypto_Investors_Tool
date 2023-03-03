@@ -71,6 +71,14 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
+.env.production
+
+#env in frontend
+crypto-currency-app/.env
+crypto-currency-app/.env.production
+
+#nodemon file
+backend/nodemon.json
 
 # parcel-bundler cache (https://parceljs.org/)
 .cache
