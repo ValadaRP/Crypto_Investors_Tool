@@ -9,6 +9,12 @@ This project was created using the Express framework and the React.js library. T
 
 To install this project you have to make this command in each directory backend / crypto-currency-app / smart_contracts. Futhermore you have to install mongoDB database or use their online hosting (https://www.mongodb.com/cloud/atlas/register).
 
+Clone the project
+
+```bash
+  git clone https://github.com/ValadaRP/Crypto_Investors_Tool.git
+```
+
 ```bash
   cd backend
   npm i
@@ -24,12 +30,6 @@ To install this project you have to make this command in each directory backend 
 
     
 ## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/ValadaRP/Crypto_Investors_Tool.git
-```
 
 Go to the project directory. You have to repeat this for this two directories backend / crypto-currency-app.
 
